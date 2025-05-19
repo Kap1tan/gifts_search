@@ -18,7 +18,7 @@ logger = logging.getLogger()
 
 # Конфигурация (все данные хранятся в памяти)
 CONFIG = {
-    'TOKEN': '7860654323:AAG1Dyh92lLK5POVO_eylBpW60iSFnWrqoA',
+    'TOKEN': '7064434574:AAG9TuO_wlzmyWg4m68uj_T4j8g3HkXPe-Q',
     'ADMINS': {804644988, 7403767874},  # Ваш ID для первого запуска
     'USERS': set()
 }
